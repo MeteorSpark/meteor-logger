@@ -1,3 +1,7 @@
+2015.04.22, Version 0.3.0
+
+* Avoid polluting global namespace
+
 2015.04.22, Version 0.1.0
 
 * First release
